@@ -1,0 +1,76 @@
+body {
+    background-color: rgb(255, 255, 255);
+    background-size: auto;
+    color: black;
+    padding: 15px;
+    padding-top: 15px;
+    margin: auto;
+    /* border: 3px;
+    border-color: orange;
+    border-style: dashed; */
+    border: 2px orange dashed;
+    display: block;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+
+div {
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.home {
+    width: fit-content;
+    PADDING: 2.5px;
+    MARGIN: 5.5px;
+    background-size: 10px;
+    display: inline-block;
+}
+
+.username,
+.password,
+.clothes,
+.Jewelry,
+.Cars,
+.Cell,
+.Women,
+.men,
+.Children,
+.Categories {
+    padding: 42px;
+    background-color: rgb(255, 68, 0);
+    background-size: contain;
+    width: 500px;
+    height: fit-content;
+    display: block;
+    border: 10px #ffffff4c solid;
+    border-radius: 109px;
+}
+
+/* .clothes,
+.Jewelry,
+.Cars,
+.Cell,
+.Categories {
+    overflow: auto;
+} */
+
+footer {
+    text-decoration: underline;
+    /* background-color: rgb(255, 68, 0); */
+    color: black;
+    /* width: fit-content;
+    display: block;
+    padding: 10px; */
+}
+
+h1 {
+    letter-spacing: -3px;
+    word-spacing: 2px;
+}
